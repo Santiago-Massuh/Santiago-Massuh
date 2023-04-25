@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="300" />
 </div>  
   
 
@@ -95,4 +95,3 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Santiago-Massuh&&style=flat-square" align="center" />
 </div>  
-  
