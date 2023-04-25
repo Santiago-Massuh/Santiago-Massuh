@@ -7,9 +7,12 @@
   
 
 - 🌱I am currently learning and perfecting:
->• JavaScript
->• Rect - Redux
->• Node  
+
+• JavaScript
+
+• Rect - Redux
+
+• Node  
 
 <br/>  
 
