@@ -6,8 +6,10 @@
 ### <div align="center">I'm Santiago, a full-time full-stack freelance developer 👨‍💻 i´m open to work 🚀</div>  
   
 
-- 🌱I am currently learning and perfecting JavaScript  
-  
+- 🌱I am currently learning and perfecting:
+> JavaScript
+> Rect - Redux
+> Node  
 
 <br/>  
 
