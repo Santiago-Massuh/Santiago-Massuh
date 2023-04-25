@@ -76,6 +76,10 @@
 <a href="https://instagram.com/santi.massuh" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+<a href="smassuh@gmail.com" target="_blank">
+<img src=[https://img.shields.io/badge/instagram-%23000000.svg?](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png)&style=for-the-badge&logo=gmail&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a> 
+  
 </div>  
   
 
