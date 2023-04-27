@@ -14,6 +14,10 @@
 
 • Node  
 
+• HTML
+
+• CSS
+
 <br/>  
 
 
